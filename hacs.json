@@ -1,5 +1,5 @@
 {
     "name": "DashCast",
     "render_readme": true,
-    "homeassistant": "2023.2.0"
+    "homeassistant": "2024.1.0"
 }
